@@ -429,13 +429,16 @@ a:focus {
 }
 
 .intro-content__text {
-	padding: 30px;
+	padding: 20px;
+    font-size: 14.5px;
 }
 
 .intro-content__text h4 {
 	font-weight: 600;
 	font-style: initial;
-	margin-bottom: 15px;
+	margin-top: 4px;
+	margin-bottom: 10px;
+    font-size: 20px;
 }
 
 .intro-content__col {
