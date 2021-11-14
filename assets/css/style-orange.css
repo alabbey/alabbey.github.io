@@ -800,7 +800,7 @@ a:focus {
 
 /*============== 10. RSVP ==============*/
 .rsvp {
-	background-image: url("../img/rsvp-bg.jpg"); /* Change to your RSVP image here */
+	background-image: url("../img/sunset.jpg"); /* Change to your RSVP image here */
 	background-size: cover;
 	background-repeat: no-repeat;
 	padding: 90px 0;
